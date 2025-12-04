@@ -1,0 +1,26 @@
+a {
+    font-style: italic;
+    color: rgb(102,51,153);
+}
+h1 {
+    color: rgb(153,102,51);
+    background-color: rgb(220,220,220);
+}
+h2, h3 {
+    color: rgb(179,153,51);
+    background-color: rgb(220,220,220);
+}
+ol {
+    color: black;
+    background-color: rgb(153,204,230);
+}
+ul {
+    background-color: rgb(230,230,204);
+}
+body {
+    border: 4px dotted black;
+}
+p {
+    font-family: serif;
+    color: rgb(153,102,77);
+}
