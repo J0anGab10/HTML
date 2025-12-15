@@ -1,6 +1,6 @@
 //--2. Número par o impar--
 
-let numero = prompt("¿Introduce un número?"); // Declaraos la variable numero
+let numero = prompt("Vamos a calcular si un número es par.\n¿Introduce un número?"); // Declaraos la variable numero
 
 numero = Number(numero); // Pasamos la variable numero de String a Number
 

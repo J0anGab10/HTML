@@ -1,6 +1,6 @@
 //--5. Calcular un precio con IVA--
 
-let precio = prompt("¿Introduce un precio?"); // Declaraos la variable precio
+let precio = prompt("Vamos a calcular el precio con IVA.\n¿Introduce un precio?"); // Declaraos la variable precio
 let total = 0; // Declaraos la variable total como memoria de precio + IVA
 
 precio = Number(precio); // Pasamos la variable precio de String a Number
